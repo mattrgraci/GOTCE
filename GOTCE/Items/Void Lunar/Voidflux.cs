@@ -7,7 +7,7 @@ using System.Text;
 using UnityEngine;
 using RoR2.Skills;
 
-namespace GOTCE.Items.VoidLunar
+namespace BubbetsItems.Items.VoidLunar
 {
     public class Voidflux : ItemBase<Voidflux>
     {
