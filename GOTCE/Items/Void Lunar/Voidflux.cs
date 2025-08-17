@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Text;
 using UnityEngine;
 using RoR2.Skills;
+using BubbetsItems.Modules.ItemTiers.VoidLunar;
 
 namespace BubbetsItems.Items.VoidLunar
 {
