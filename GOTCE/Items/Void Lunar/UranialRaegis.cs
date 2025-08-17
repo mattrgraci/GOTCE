@@ -3,6 +3,7 @@ using BepInEx.Configuration;
 using GOTCE.EntityStatesCustom.Cracktain;
 using RoR2.Items;
 using HarmonyLib;
+using BubbetsItems.Modules.ItemTiers.VoidLunar;
 
 namespace BubbetsItems.Items.VoidLunar
 {
