@@ -4,7 +4,7 @@ using GOTCE.EntityStatesCustom.Cracktain;
 using RoR2.Items;
 using HarmonyLib;
 
-namespace GOTCE.Items.VoidLunar
+namespace BubbetsItems.Items.VoidLunar
 {
     public class UranialRaegis : ItemBase<UranialRaegis>
     {
